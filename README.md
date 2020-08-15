@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 
-**Arif-Badhon/Arif-Badhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an Engineer looking for new challenge to change the world
 
-Here are some ideas to get you started:
+## IoT || Machine Learning || Data Science || Robot Process Automation (RPA) || Project Management
 
-- 🔭 I’m currently working on ... Machine Learning in TensorFlow
+
+- 🔭 I’m currently working on ... Machine Learning 
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Anything
 - 🤔 I’m looking for help with ... Data Science
 - 💬 Ask me about ... My day
 - 📫 How to reach me: ... www.linkedin.com/in/azb2
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Ambition: ... Trying to build my great startup
+- ⚡ MyQuote: ... Be happy and Make happy
 
