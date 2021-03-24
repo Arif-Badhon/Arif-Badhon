@@ -14,5 +14,4 @@
 - 📫 How to reach me: ... www.linkedin.com/in/azb2
 - ⚡ Ambition: ... Trying to build my great startup
 - ⚡ MyQuote: ... Be happy and Make happy
-- ⚡ Done with 30 + courses on Coursera
 
