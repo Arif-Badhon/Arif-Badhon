@@ -3,7 +3,7 @@
 
 ## I am an Engineer looking for new challenges to change the world
 
-# IoT || Machine Learning || Data Science || Robot Process Automation (RPA) || Artificial Intelligence 
+# Data Science || Data Engineer || Machine Learning || Tech Business Development
 
 
 - 🔭 I’m currently working on ... Machine Learning 
