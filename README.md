@@ -18,5 +18,5 @@
 My Profile
 
 1. Hackerrank: [https://www.hackerrank.com/Arif_Uz_Zaman](https://www.hackerrank.com/Arif_Uz_Zaman)
-2. LinkedIn: [www.linkedin.com/in/azb2](https://www.linkedin.com/in/arifbadhon/)
+2. LinkedIn: ([https://www.linkedin.com/in/arifbadhon/](https://www.linkedin.com/in/arifbadhon/))
 3. Website: [https://arifinfo.net/](https://arifinfo.net/)
