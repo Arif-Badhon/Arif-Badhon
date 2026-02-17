@@ -1,118 +1,110 @@
-# Hi, I'm Arif 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arif%20Uz%20Zaman&fontSize=80&fontAlign=50&fontAlignY=35&desc=Business%20Intelligence%20Analyst%20%7C%20Generative%20AI%20Researcher&descAlign=50&descAlignY=60&animation=fadeIn" alt="Arif Uz Zaman Header" />
 
-**AI/ML Systems Engineer · Backend & Data Platform Builder**  
-Designing **secure, production-grade** ML systems, RAG platforms, and data-intensive services.
+<p align="center">
+<a href="https://arifinfo.net">
+<img src="https://img.shields.io/badge/Website-arifinfo.net-24292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://linkedin.com/in/arifbadhon/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:arifuzzaman.badhon1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://arifinfo.net/schedule-meeting/">
+<img src="https://img.shields.io/badge/Consulting-Book_Now-success?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Consulting" />
+</a>
+</p>
+</div>
 
-- 🔭 **Current focus:** AI governance frameworks, enterprise AI agents, and ML systems at scale  
-- 🧠 **Experience:** 4+ years across ML, backend (FastAPI), and data engineering / MLOps  
-- 🌍 **Location:** Dhaka, Bangladesh — open to global & remote collaboration  
-- 🧭 **Interest areas:** AI governance, RAG platforms, ML infra, and long-term impacts of AI
+🚀 Professional Summary
+"Bridging the gap between Enterprise Data Intelligence and the Quantum Future of AI."
 
----
+I am a Business Intelligence Analyst at BRAC IT, where I architect data solutions that drive large-scale decision-making. Beyond the dashboard, I am a Generative AI Systems Engineer focused on the Privacy-First revolution—building RAG systems that run entirely on local infrastructure to ensure data sovereignty.
 
-## ⚙️ What I Work On
+My work oscillates between the practical (SQL, Docker, API Design) and the theoretical (Quantum Mechanics, AI Governance), driven by a mission to create technology that is both powerful and human-centric.
 
-**🧮 Machine Learning & LLMs**
+🔭 Current Focus: Developing Local RAG Systems using Qdrant & Ollama for secure enterprise knowledge retrieval.
 
-- Supervised / unsupervised ML, classic models to modern deep learning  
-- Retrieval-Augmented Generation (RAG), semantic search, vector databases  
-- Generative AI (Llama 2, Gemma, AWS Bedrock) and evaluation / observability  
-- Responsible AI and AI governance design for real-world organizations
+💼 Professional Role: BI Analyst @ BRAC IT (Since Nov 2024).
 
-**🧵 Backend & APIs**
+🧠 Research Interests: Quantum Computing, Multiverse Theory, and Human-Centric AI Governance.
 
-- FastAPI-based microservices and high-performance REST APIs  
-- Async Python, streaming responses, background jobs, task queues  
-- Auth (JWT), rate limiting, observability, and clean modular architecture  
-- Integration with databases, vector stores, and external ML services
+📝 Latest Writing: Exploring the intersection of Consciousness and Quantum Mechanics.
 
-**📊 Data Engineering & MLOps**
+🛠️ The Technical Arsenal
+<div align="center">
 
-- ETL/ELT pipelines, data modeling, and analytics-ready warehouse design  
-- CI/CD for ML, Docker-first workflows, cloud deployment (AWS/GCP)  
-- Experiment tracking (MLflow / W&B / Neptune), model versioning  
-- Production monitoring, logging, and feedback loops for ML services
+Artificial Intelligence & Machine Learning
 
----
 
-## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, Bash, JavaScript (frontend basics)  
-- **ML / Data:** scikit-learn, pandas, NumPy, PyTorch / TensorFlow (as needed), Hugging Face, LangChain, vector DBs (Qdrant, PGVector)  
-- **Backend:** FastAPI, REST APIs, async Python, JWT auth  
-- **Data & Storage:** PostgreSQL, MongoDB, relational modeling, query optimization  
-- **MLOps / Infra:** Docker, Airflow, GitHub Actions / GitLab CI, AWS, GCP, MLflow, W&B, Neptune  
-- **Analytics & BI:** Power BI, Tableau, Superset  
-- **Tools:** Git & GitHub, CLI, Postman/curl, VS Code, Jupyter
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Qdrant-CC0000?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
 
----
+</div>
 
-## 🚀 Selected Focus Areas
+📊 GitHub Analytics
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arif-Badhon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arif's GitHub Stats" />
+</a>
 
-- 🧩 **Production ML Systems** – taking models from notebooks to robust, observable services  
-- 📚 **RAG & Search** – domain-specific assistants with strong retrieval, ranking, and evaluation  
-- 🛡️ **AI Governance** – policies, frameworks, and tooling for secure, compliant, responsible AI adoption  
-- 🧰 **MLOps** – making training, deployment, and monitoring repeatable, automated, and auditable  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-Badhon&layout=donut&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+</a>
+</div>
 
----
+💎 Featured Projects & Case Studies
+1.(https://github.com/Arif-Badhon/Generative-Ai-Portfolio-Project)
+Secure Knowledge Management for the Post-Cloud Era.
 
-## 🔗 Live & Flagship Projects
+The Problem: Enterprises require the intelligence of LLMs but cannot risk sensitive data exposure via external APIs.
 
-> These are good candidates to **pin** on GitHub.
+The Solution: A fully containerized, local Retrieval-Augmented Generation pipeline.
 
-- **LLM Data Analyzer (Llama 2 + Streamlit + Docker)**  
-  Streamlit-based app powered by a Dockerized Llama 2 model that provides conversational insights and statistical summaries from CSV/Excel datasets.  
+Architecture:
 
-- **RAG Observability Platform (Docker + MLOps)**  
-  A Dockerized observability stack for RAG pipelines with real-time tracing, quality metrics, and evaluation hooks (ideal for production RAG systems).  
+Inference: Local execution via Ollama (Llama 3.1) ensuring 0% data egress.
 
-- **AI Incident Reporting Agent (NLP + RAG + PGVector)**  
-  Enterprise incident reporting assistant that automates categorization and summarization of reports, reducing manual processing by ~90% in production settings.  
+Vector Search: Qdrant for high-speed, scalable semantic retrieval.
 
-- **Privacy-First Enterprise RAG System (FastAPI + Qdrant)**  
-  A domain-specific semantic search and question-answering system designed with data isolation and governance in mind, suitable for compliance-sensitive environments.  
+Backend: A high-concurrency FastAPI service managed with uv.
 
-- **MLOps Pipeline for CIFAR-10 (Docker + CI/CD)**  
-  End-to-end image classification pipeline with experiment tracking and production-ready deployment flow, achieving 98% validation accuracy.  
+Impact: Enables "Chat with your Docs" functionality for regulated industries (Finance, Healthcare).
 
-- **ETL Pipeline with Airflow & Docker**  
-  Orchestrated ETL that processes 100K+ records daily and reduces data refresh times from hours to minutes.
+2. Gemma3 Local Chat Interface
+High-Performance, Zero-Latency AI Interaction.
 
----
+Overview: A minimalist, portfolio-grade chat application engineered for speed.
 
-## 📂 What You'll Find in My Repos
+Key Innovation: Implements a Zero-JS frontend philosophy while supporting complex features like real-time token streaming and model switching.
 
-- End-to-end ML projects with:
-  - Clear READMEs, problem statements, and architecture diagrams/overviews  
-  - Reproducible environments (Docker, requirements, Makefiles or helper scripts)  
-  - CI/CD scaffolding and monitoring hooks where relevant  
-- Backend services built with FastAPI and solid API design principles  
-- Data pipelines and utilities for ETL, feature engineering, and analytics  
-- Experiments with LLMs, vector search, and RAG patterns (incl. observability & evaluation)  
-- Occasional open-source contributions and starter templates you can reuse in your own projects  
+Tech Stack: FastAPI HTML/CSS Ollama Gemma3:4b
 
-**Recommended pinned repos:**
+3.(https://github.com/Arif-Badhon/MLWebAppWithStremlite)
+Data-Driven Financial Risk Assessment.
 
-- ✅ A production-style ML service (FastAPI API + model + monitoring/metrics)  
-- ✅ A RAG or LLM-powered application (ideally with evaluation / observability)  
-- ✅ A data engineering or ETL project (Airflow / Docker / SQL-heavy)  
-- ✅ Any open-source contribution or reusable template (e.g., FastAPI + RAG boilerplate)
+Overview: A classic Machine Learning application bridging my background in BI with predictive analytics.
 
----
+Features: Interactive Streamlit dashboard for visualizing risk factors and predicting loan outcomes based on historical financial data.
 
-## 🧭 Beyond Code
+🧠 Deep Research & Philosophy
+I believe that true innovation lies at the intersection of disciplines. My writing explores the convergence of Quantum Mechanics, Consciousness, and Artificial Intelligence.
 
-- 📘 Deeply interested in AI governance, AI security, and how organizations adopt ML responsibly  
-- 📝 Enjoy technical writing, documentation, and sharing implementation details & architecture choices  
-- 🌌 Outside of work: reading cosmology and theoretical physics, and occasionally playing competitive chess  
+(https://arifinfo.net/blogs/) (Feb 2026) - Arguing for AI leadership that transcends mere compliance.
 
----
+Cache-Augmented Generation (CAG) - Analyzing the next evolution in LLM performance beyond RAG.
 
-## 📫 Let's Connect
+(https://arifinfo.net/blogs/) - Investigating the physical substrates of reality and computation.
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/arifbadhon/](https://www.linkedin.com/in/arifbadhon/)  
-- 🌐 Portfolio / Blog: [https://arifinfo.net/](https://arifinfo.net/)  
-- 🐙 GitHub: [https://github.com/Arif-Badhon](https://github.com/Arif-Badhon)  
-- 📧 Email: [arifuzzaman.badhon1@gmail.com](mailto:arifuzzaman.badhon1@gmail.com)
+(https://arifinfo.net/blogs/) - A first-principles look at non-locality and superposition.
 
-If you're working on **ML infrastructure, RAG systems, AI governance tooling, or data-heavy backend services**, feel free to reach out, open an issue, or start a discussion. Always happy to collaborate on systems that ship to production.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Arif-Badhon&style=flat-square&color=blue" alt="Profile Views" />
+<p><i>Building the future, one vector at a time.</i></p>
+</div>
