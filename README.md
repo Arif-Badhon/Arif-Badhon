@@ -17,8 +17,7 @@
 </p>
 </div>
 
-🚀 Professional Summary
-"Bridging the gap between Enterprise Data Intelligence and the Quantum Future of AI."
+Bridging the gap between Enterprise Data Intelligence and the Quantum Future of AI.
 
 I am a Business Intelligence Analyst at BRAC IT, where I architect data solutions that drive large-scale decision-making. Beyond the dashboard, I am a Generative AI Systems Engineer focused on the Privacy-First revolution—building RAG systems that run entirely on local infrastructure to ensure data sovereignty.
 
