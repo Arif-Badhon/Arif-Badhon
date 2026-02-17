@@ -50,11 +50,11 @@ Artificial Intelligence & Machine Learning
 📊 GitHub Analytics
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arif-Badhon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arif's GitHub Stats" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Arif-Badhon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arif's GitHub Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-Badhon&layout=donut&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arif-Badhon&layout=donut&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 </a>
 </div>
 
