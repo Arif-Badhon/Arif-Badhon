@@ -23,7 +23,7 @@ I am a Business Intelligence Analyst at BRAC IT, where I architect data solution
 
 My work oscillates between the practical (SQL, Docker, API Design) and the theoretical (Quantum Mechanics, AI Governance), driven by a mission to create technology that is both powerful and human-centric.
 
-🔭 Current Focus: Developing Local RAG Systems using Qdrant & Ollama for secure enterprise knowledge retrieval.
+🔭 Current Focus: Developing AI system that works. Developing AI Governance policy for Bangladesh.
 
 💼 Professional Role: BI Analyst @ BRAC IT (Since Nov 2024).
 
